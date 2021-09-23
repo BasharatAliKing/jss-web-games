@@ -671,12 +671,15 @@ footer{
     #header .left img{
         width: 100px;
     }
+
     #header .right{
         display: none;
     }
+   
     #services{
         margin: 40px 0px;
         text-align: center;
+        padding: 40px 20px;
     }
     #services h1{
         font-size: 30px;
@@ -689,14 +692,14 @@ footer{
         
     }
     .service .a .d{
-        margin:auto 20px;
+        margin:auto 80px;
         
     }
     .service .b .d{
-        margin: auto 20px;
+        margin: auto 80px;
     }
     .service .c .d{
-        margin: auto 20px;
+        margin: auto 90px;
     }
     .project{
         margin: 40px 0px;
@@ -781,10 +784,10 @@ footer{
        text-align: center;
    }
    .contact .a{
-       margin-left: 60px;
+       margin-left: 30px;
    }
    .contact .b{
-       margin-left: 60px;
+       margin-left: 30px;
    }
    .contact .b iframe{
        width: 350px;
