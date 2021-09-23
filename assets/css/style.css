@@ -682,7 +682,7 @@ footer{
         padding: 40px 20px;
     }
     #services h1{
-        font-size: 30px;
+        font-size: 40px;
     }
     .service h2{
         font-size: 22px;
@@ -787,7 +787,7 @@ footer{
        margin-left: 30px;
    }
    .contact .b{
-       margin-left: 30px;
+       margin-left:15px;
    }
    .contact .b iframe{
        width: 350px;
