@@ -679,7 +679,7 @@ footer{
     #services{
         margin: 40px 0px;
         text-align: center;
-        padding: 40px 20px;
+        padding: 40px 0px;
     }
     #services h1{
         font-size: 40px;
@@ -691,15 +691,24 @@ footer{
         display: inline;
         
     }
+    .service .a{
+        margin-top: 20px;
+    }
+    .service .b{
+        margin-top: 20px;
+    }
+    .service .c{
+        margin-top: 20px;
+    }
     .service .a .d{
-        margin:auto 80px;
+        margin:auto 100px;
         
     }
     .service .b .d{
-        margin: auto 80px;
+        margin: auto 100px;
     }
     .service .c .d{
-        margin: auto 90px;
+        margin: auto 110px;
     }
     #project{
         
@@ -800,7 +809,7 @@ footer{
        text-align: center;
    }
    .contact textarea{
-       width: 300px;
+       width: 400px;
    } 
    .contact .b{
        margin-left:0px;
