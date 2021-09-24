@@ -675,6 +675,9 @@ footer{
     #header .right{
         display: none;
     }
+    #slider{
+       margin-top: 120px;
+    }
    
     #services{
         margin: 40px 0px;
@@ -709,9 +712,6 @@ footer{
     }
     .service .c .d{
         margin: auto 110px;
-    }
-    #project{
-        
     }
     .project{
         margin: 40px 0px;
