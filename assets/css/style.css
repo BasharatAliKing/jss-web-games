@@ -701,8 +701,15 @@ footer{
     .service .c .d{
         margin: auto 90px;
     }
+    #project{
+        
+    }
     .project{
         margin: 40px 0px;
+    }
+
+    .project .a{
+    padding: 0px;
     }
     .project .third{
         margin-top: 40px;
@@ -717,6 +724,7 @@ footer{
     }
     .project img{
         width: 400px;
+        padding: 0px;
     }
     .skills {
         display: inline;
@@ -758,6 +766,7 @@ footer{
     }
     #career{
         padding-top: 0px;
+        
     }
     .career{
         margin: 40px 20px;
@@ -786,6 +795,9 @@ footer{
    .contact .a{
        margin-left: 15px;
    }
+   .contact textarea{
+       width: 297px;
+   } 
    .contact .b{
        margin-left:15px;
    }
@@ -795,10 +807,12 @@ footer{
    .contact .b h1{
        text-align: center;
    }
+
   
    
     .footer .b{
         display: inline;
+        padding: 10px 20px;
     }
 
    .footer {
