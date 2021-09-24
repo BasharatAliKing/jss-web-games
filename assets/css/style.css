@@ -794,12 +794,17 @@ footer{
    }
    .contact .a{
        margin-left: 15px;
+       
+   }
+   .contact .a input{
+       text-align: center;
    }
    .contact textarea{
-       width: 297px;
+       width: 300px;
    } 
    .contact .b{
-       margin-left:15px;
+       margin-left:0px;
+       text-align: center;
    }
    .contact .b iframe{
        width: 350px;
@@ -812,7 +817,7 @@ footer{
    
     .footer .b{
         display: inline;
-        margin: 20px 50px;
+        
     }
 
    .footer {
